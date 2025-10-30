@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_tutorial_1\\q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EF147B-0A34-40F9-B054-3C562A1A424C}|24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q11.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q11.cs",
+              "RelativeDocumentMoniker": "Q11.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q11.cs",
+              "RelativeToolTip": "Q11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:03:23.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q21.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q21.cs",
+              "RelativeDocumentMoniker": "Q21.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q21.cs",
+              "RelativeToolTip": "Q21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:32:18.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q20.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q20.cs",
+              "RelativeDocumentMoniker": "Q20.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q20.cs",
+              "RelativeToolTip": "Q20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:29:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Q19.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q19.cs",
+              "RelativeDocumentMoniker": "Q19.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q19.cs",
+              "RelativeToolTip": "Q19.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:27:04.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Q18.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q18.cs",
+              "RelativeDocumentMoniker": "Q18.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q18.cs",
+              "RelativeToolTip": "Q18.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:25:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Q17.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q17.cs",
+              "RelativeDocumentMoniker": "Q17.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q17.cs",
+              "RelativeToolTip": "Q17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:21:57.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q16.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q16.cs",
+              "RelativeDocumentMoniker": "Q16.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q16.cs",
+              "RelativeToolTip": "Q16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:19:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Q15.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q15.cs",
+              "RelativeDocumentMoniker": "Q15.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q15.cs",
+              "RelativeToolTip": "Q15.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:16:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q14.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q14.cs",
+              "RelativeDocumentMoniker": "Q14.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q14.cs",
+              "RelativeToolTip": "Q14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:14:20.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Q13.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q13.cs",
+              "RelativeDocumentMoniker": "Q13.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q13.cs",
+              "RelativeToolTip": "Q13.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:11:38.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q12.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q12.cs",
+              "RelativeDocumentMoniker": "Q12.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q12.cs",
+              "RelativeToolTip": "Q12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:07:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:28:05.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Q22.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q22.cs",
+              "RelativeDocumentMoniker": "Q22.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q22.cs",
+              "RelativeToolTip": "Q22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:34:13.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q10.cs",
+              "RelativeDocumentMoniker": "Q10.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q10.cs",
+              "RelativeToolTip": "Q10.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:01:26.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Q9.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q9.cs",
+              "RelativeDocumentMoniker": "Q9.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q9.cs",
+              "RelativeToolTip": "Q9.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:57:56.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Q8.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q8.cs",
+              "RelativeDocumentMoniker": "Q8.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q8.cs",
+              "RelativeToolTip": "Q8.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:54:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Q6.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q6.cs",
+              "RelativeDocumentMoniker": "Q6.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q6.cs",
+              "RelativeToolTip": "Q6.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:50:20.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q5.cs",
+              "RelativeDocumentMoniker": "Q5.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q5.cs",
+              "RelativeToolTip": "Q5.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:46:37.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q4.cs",
+              "RelativeDocumentMoniker": "Q4.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q4.cs",
+              "RelativeToolTip": "Q4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:42:56.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q3.cs",
+              "RelativeDocumentMoniker": "Q3.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q3.cs",
+              "RelativeToolTip": "Q3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:39:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q2.cs",
+              "RelativeDocumentMoniker": "Q2.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q2.cs",
+              "RelativeToolTip": "Q2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:34:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_SAURAV_PANDIT_Tutorial_1\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:28:22.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

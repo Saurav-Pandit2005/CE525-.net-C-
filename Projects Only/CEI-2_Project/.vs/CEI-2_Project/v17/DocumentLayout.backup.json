@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|d:\\rku\\5th sem\\.net and c#\\projects only\\cei-2_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\sign_in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:sign_in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/University/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:home_screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\home_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875656F-BF25-423B-A29E-F0B9358E4766}|CEI-2_Project.csproj|solutionrelative:home_screen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Department.cs [Design]",
+              "RelativeToolTip": "Department.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:04:50.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:01:18.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:42:22.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:45:14.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sign_In.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.cs",
+              "RelativeDocumentMoniker": "Sign_In.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.cs",
+              "RelativeToolTip": "Sign_In.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:43:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:19:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.cs [Design]",
+              "RelativeToolTip": "Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:15:21.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sign_In.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.cs",
+              "RelativeDocumentMoniker": "Sign_In.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.cs [Design]",
+              "RelativeToolTip": "Sign_In.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:03:22.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T15:19:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Teacher.cs [Design]",
+              "RelativeToolTip": "Teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:01:29.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\User.cs [Design]",
+              "RelativeToolTip": "User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:48:28.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:22:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.Designer.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.Designer.cs",
+              "RelativeDocumentMoniker": "Student.Designer.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Student.Designer.cs",
+              "RelativeToolTip": "Student.Designer.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAqwBcBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:19:49.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:22:02.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.resx",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.resx",
+              "RelativeDocumentMoniker": "Login.resx",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.resx",
+              "RelativeToolTip": "Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-23T08:58:29.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAADwv4QAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:59:19.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:44:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/University/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/University/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-19T03:18:06.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Teacher.cs",
+              "RelativeDocumentMoniker": "Teacher.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:20:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home_Screen.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Home_Screen.cs",
+              "RelativeDocumentMoniker": "Home_Screen.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Home_Screen.cs",
+              "RelativeToolTip": "Home_Screen.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:16:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home_Screen.Designer.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Home_Screen.Designer.cs",
+              "RelativeDocumentMoniker": "Home_Screen.Designer.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Home_Screen.Designer.cs",
+              "RelativeToolTip": "Home_Screen.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:16:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sign_In.Designer.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.Designer.cs",
+              "RelativeDocumentMoniker": "Sign_In.Designer.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\Projects Only\\CEI-2_Project\\Sign_In.Designer.cs",
+              "RelativeToolTip": "Sign_In.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:44:03.392Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

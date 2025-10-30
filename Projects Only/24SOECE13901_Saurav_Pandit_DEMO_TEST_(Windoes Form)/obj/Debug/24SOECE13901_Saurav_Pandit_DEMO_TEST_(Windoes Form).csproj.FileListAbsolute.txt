@@ -1,0 +1,12 @@
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\bin\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).exe.config
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\bin\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).exe
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\bin\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).pdb
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj.AssemblyReference.cache
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\_24SOECE13901_Saurav_Pandit_DEMO_TEST__Windoes_Form_.Form1.resources
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\_24SOECE13901_Saurav_Pandit_DEMO_TEST__Windoes_Form_.Properties.Resources.resources
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj.GenerateResource.cache
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj.CoreCompileInputs.cache
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).exe
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).pdb
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).exe.config
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\obj\Debug\_24SOECE13901_Saurav_Pandit_DEMO_TEST__Windoes_Form_.Form2.resources

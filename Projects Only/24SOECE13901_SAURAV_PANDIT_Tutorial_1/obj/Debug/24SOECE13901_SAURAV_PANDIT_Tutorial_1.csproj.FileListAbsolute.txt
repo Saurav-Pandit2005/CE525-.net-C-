@@ -1,0 +1,2 @@
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_SAURAV_PANDIT_Tutorial_1\obj\Debug\24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj.AssemblyReference.cache
+D:\RKU\5th SEM\.NET and C#\24SOECE13901_SAURAV_PANDIT_Tutorial_1\obj\Debug\24SOECE13901_SAURAV_PANDIT_Tutorial_1.csproj.CoreCompileInputs.cache

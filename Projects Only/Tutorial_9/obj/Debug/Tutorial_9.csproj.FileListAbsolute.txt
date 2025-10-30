@@ -1,0 +1,24 @@
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\bin\Debug\Tutorial_9.exe.config
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\bin\Debug\Tutorial_9.exe
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\bin\Debug\Tutorial_9.pdb
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.csproj.AssemblyReference.cache
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.Form1.resources
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.Properties.Resources.resources
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.csproj.GenerateResource.cache
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.csproj.CoreCompileInputs.cache
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.exe
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.pdb
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.exe.config
+D:\RKU\5th SEM\.NET and C#\Tutorial_9\obj\Debug\Tutorial_9.Form2.resources
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\bin\Debug\Tutorial_9.exe.config
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\bin\Debug\Tutorial_9.exe
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\bin\Debug\Tutorial_9.pdb
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.csproj.AssemblyReference.cache
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.exe.config
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.Form1.resources
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.Form2.resources
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.Properties.Resources.resources
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.csproj.GenerateResource.cache
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.csproj.CoreCompileInputs.cache
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.exe
+D:\RKU\5th SEM\.NET and C#\Projects Only\Tutorial_9\obj\Debug\Tutorial_9.pdb

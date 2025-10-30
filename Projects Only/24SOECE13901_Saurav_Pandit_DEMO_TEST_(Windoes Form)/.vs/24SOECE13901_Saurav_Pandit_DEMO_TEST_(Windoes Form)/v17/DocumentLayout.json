@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_demo_test_(windoes form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_demo_test_(windoes form)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_demo_test_(windoes form)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_demo_test_(windoes form)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|d:\\rku\\5th sem\\.net and c#\\24soece13901_saurav_pandit_demo_test_(windoes form)\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E7C6147D-2B16-4B0F-88DD-2733C0E385A3}|24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form).csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:02:38.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:59:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:48:45.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:32:17.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\RKU\\5th SEM\\.NET and C#\\24SOECE13901_Saurav_Pandit_DEMO_TEST_(Windoes Form)\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:28:20.887Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24SOECE13901_Saurav_Pandit_DEMO_TEST", "24SOECE13901_Saurav_Pandit_DEMO_TEST.csproj", "{396E6615-7A4F-4599-BBC3-05A6C00985A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{396E6615-7A4F-4599-BBC3-05A6C00985A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396E6615-7A4F-4599-BBC3-05A6C00985A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396E6615-7A4F-4599-BBC3-05A6C00985A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396E6615-7A4F-4599-BBC3-05A6C00985A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7C07D8-35A8-4EA5-9954-BF2F15C5210F}
+	EndGlobalSection
+EndGlobal
