@@ -1,2 +1,28 @@
-# CE525-.net-C-
-This is CE525 Repo... and , In this Repo i am Collected all the Task Perfom by me in this Subject.........
+# C# and .NET Academic Repository
+
+This repository contains my academic work related to .NET development, including projects, tutorials, practical experiments, assignments, and learning materials completed during my coursework.
+
+## Contents
+
+* .NET Projects
+* C# Programming
+* ASP.NET Applications
+* Practical Experiments
+* Tutorials and Examples
+* Assignments
+* Academic Exercises
+
+## Technologies Used
+
+* C#
+* .NET
+* ASP.NET
+* SQL Server
+
+## Purpose
+
+The purpose of this repository is to organize and maintain all .NET-related academic work in one place while documenting my learning and practical development experience.
+
+## Author
+
+Saurav Pandit
