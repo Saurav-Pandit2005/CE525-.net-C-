@@ -1,4 +1,4 @@
-# C# and .NET Repository
+# C# and .NET Acadamic Repository
 
 This repository contains my academic work related to .NET development, including projects, tutorials, practical experiments, assignments, and learning materials completed during my coursework.
 
